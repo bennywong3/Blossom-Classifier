@@ -23,7 +23,7 @@ major constraints in affecting the performance of our model.
 Although due to limitations we have not completely implemented
 the solutions yet, we propose some ways in the report for further
 improvement.
-## introduction video
+## Introduction Video
 [![Watch the video](https://img.youtube.com/vi/pPT-jrxJrn4/maxresdefault.jpg)](https://youtu.be/pPT-jrxJrn4)
 
 ## How to use
